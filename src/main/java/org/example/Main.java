@@ -8,13 +8,6 @@ public class Main {
 
         ProductService productService = new ProductService();
 
-        // Hey service, add the products...
-        productService.addProduct(new Product("Asus Rog","Laptop","Desk1",2028));
-        productService.addProduct(new Product("Samsung M31","SmartPhone","Desk1",2026));
-        productService.addProduct(new Product("RealMe","EarPhone","Desk2",2024));
-        productService.addProduct(new Product("Zebronics","KeyBoard","Desk3",2025));
-        productService.addProduct(new Product("Zebronics","Mouse","Desk3",2025));
-
         System.out.println("__________________________________________________________________________");
         // Getting all products
         List<Product> allProducts = productService.getAllProduct();
