@@ -1,5 +1,6 @@
 # Product-Management-Application-Updated
-Used PostgreSQL database instead of manually creating a new Product object. The final version will be built using the Spring Boot framework.
+Product Management Application (Updated)
+This is an enhanced version of the Product Management Application, integrating a PostgreSQL database instead of manually creating product objects. The application allows adding, retrieving, and managing products efficiently. The final version will incorporate the Spring Boot framework for better scalability and maintainability.
 
 Old repository link - "https://github.com/imprathamraj/Product-Management-Application"
 
